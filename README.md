@@ -7,7 +7,7 @@ A disciplina é dividida em três módulos, nos quais são aplicados exercícios
 
 # Conheça os Modulos
 
- 1. o primeiro modulo foi ensinado o basico em C
+ 1. O primeiro modulo foi ensinado e revisando o basico da disciplina de **Fundamentos de Programação** - C
  2. No 2º modulo foi ensinado **lista**, **Pilha** e **Fila**
  3. No ultimo modulo foi ensinado **Arvore Binaria** e **Algoritmo de Ordenação**
 
